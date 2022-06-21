@@ -285,6 +285,7 @@ Made with Electron.
 - [VIR](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 - [Browserosaurus](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
 - [linked](https://github.com/lostdesign/linked) - Daily journal.
+- [Barklarm](https://www.barklarm.com/) - Display the status of your projects as an item in the tray bar (ex. Github Action build status).
 
 ### Closed Source
 
